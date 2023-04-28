@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "question": "How can I rent a specific car?",
+    "answer": "Car Rental offers rentals based on categories, not on specific cars. During the reservation process, a list of possible vehicles included in the reserved category is provided.  You can indicate your request in the 'additional information' field when processing your reservation. Please note that we may not always be able to accommodate such requests. Car Rental will offer you the mobility based on the selected category, the specific vehicle to be received will be decided at the Car Rental branch on the day and time of pick-up."
+  },
+  {
+    "id": 1,
+    "question": "What should I know if I want to travel abroad with a Car Rental vehicle?",
+    "answer": "We recommend that you inform yourself about the traffic regulations at your destination. In this regard, the lessee is responsible for knowing and complying with the traffic regulations and the payment times related to alleged infractions and tolls. These cases are not foreseen in the contract and must be paid by the client."
+  },
+  {
+    "id": 2,
+    "question": "Can I smoke in a rental vehicle?",
+    "answer": "Smoking is strictly prohibited in all our vehicles. We charge a special cleaning fee if the returned vehicle requires special cleaning to remove any signs of smoking inside the vehicle."
+  },
+  {
+    "id": 3,
+    "question": "Additional costs incurred for maintenance",
+    "answer": "If you have incurred additional costs during your rental due to having to add oil, adBlue, windshield washer fluid, etc. simply keep the receipt or invoice proving these costs and send it to us together with your bank details (IBAN + SWIFT + Account holder) via the contact form."
+  }
+]

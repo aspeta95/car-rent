@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Forrest Gump",
+    "review": "Life is like a box of chocolates, and renting a car from this website was a sweet treat! The whole process was simple as pie, and the prices were as friendly as my mama's smile. I got to drive a nice car all the way across the country, meeting lots of interesting folks along the way. I'd surely rent from them again, and I just might run my way to the rental office next time!",
+    "country": "Alabama",
+    "img": "fg.jpg"
+  },
+  {
+    "name": "Tony Stark",
+    "review": "Genius, billionaire, playboy, philanthropist, and now satisfied car renter. I booked a luxury car from this website for a quick getaway, and I must say, the entire experience was top-notch. The online booking was as seamless as my Iron Man suit, and the rental rates - surprisingly reasonable for someone of my caliber. Can't wait to rent from them again when I'm not flying around in my armor. Highly recommended!",
+    "country": "California",
+    "img": "ts.jpg"
+  },
+  {
+    "name": "Hulk",
+    "review": "Hulk rent car from website. Hulk happy! Booking easy, even for big green fingers. Prices low, Hulk not need to smash! Car strong, like Hulk, but not green. Next time, Hulk want green car. Hulk recommend website for car rental, but Hulk no fit in small cars. Make sure rent big car for Hulk friends!",
+    "country": "Miami",
+    "img": "hulk.jpg"
+  }
+]

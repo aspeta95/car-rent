@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": "2005",
+    "doors": "4",
+    "ac": "Yes",
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "price": "37€",
+    "img": "corolla.png"
+  },
+  {
+    "id": "1",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": "2008",
+    "doors": "3",
+    "ac": "No",
+    "transmission": "Manual",
+    "fuel": "Gas",
+    "price": "33€",
+    "img": "civic.png"
+  },
+  {
+    "id": "2",
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": "2007",
+    "doors": "4",
+    "ac": "Yes",
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "price": "31€",
+    "img": "fiesta.png"
+  },
+  {
+    "id": "3",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": "2010",
+    "doors": "4",
+    "ac": "No",
+    "transmission": "Manual",
+    "fuel": "Gas",
+    "price": "36€",
+    "img": "golf.png"
+  },
+  {
+    "id": "4",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": "2006",
+    "doors": "5",
+    "ac": "Yes",
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "price": "46€",
+    "img": "altima.png"
+  },
+  {
+    "id": "5",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": "2007",
+    "doors": "4",
+    "ac": "No",
+    "transmission": "Automatic",
+    "fuel": "Diesel",
+    "price": "41€",
+    "img": "elantra.png"
+  },
+  {
+    "id": "6",
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "year": "2008",
+    "doors": "3",
+    "ac": "Yes",
+    "transmission": "Manual",
+    "fuel": "Gas",
+    "price": "39€",
+    "img": "cruze.png"
+  }
+]

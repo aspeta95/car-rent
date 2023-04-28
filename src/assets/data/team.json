@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aria",
+    "role": "Marketing Manager",
+    "img": "p1.jpg"
+  },
+  {
+    "name": "Leo",
+    "role": "Financial Analyst",
+    "img": "p2.jpg"
+  },
+  {
+    "name": "Maya",
+    "role": "Human Resources Director",
+    "img": "p3.jpg"
+  },
+  {
+    "name": "Felix",
+    "role": "Operations Coordinator",
+    "img": "p4.jpg"
+  },
+  {
+    "name": "Luna",
+    "role": "Sales Representative",
+    "img": "p5.jpg"
+  },
+  {
+    "name": "Oliver",
+    "role": "IT Support Specialist",
+    "img": "p6.jpg"
+  }
+]
