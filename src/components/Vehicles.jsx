@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import carDetails from "../assets/data/cars.json";
+import { carDetails } from "../assets/data/cars";
 import VehicleDetails from "./VehicleDetails";
 
 const Vehicles = () => {
@@ -38,7 +38,7 @@ const Vehicles = () => {
           </div>
 
           <div className="flex items-center justify-center w-96">
-            <img src={`../src/assets/img/${car.img}`} className="" />
+            <img src={`${car.img}`} className="" />
           </div>
 
           <div>
